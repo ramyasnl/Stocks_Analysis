@@ -9,5 +9,6 @@ Now DQ analysis sheet has the total volume of DQ stocks using IF and FOR loops a
 " allstockanalysisdashbrdcolor" colored according to the %of return.<br/>
 "allstockanalysiscomplete" we created buttons to run and clear the o/p screen by inserting button in the "developer" option.<br/>
 "setting year button" an input box opens and takes input year and does the calculation for the choosen year.<br/>
+"allstockanalysiscomplete" is the end result of the dashboard instructions .<br/>
 
 
