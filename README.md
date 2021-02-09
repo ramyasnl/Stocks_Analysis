@@ -7,6 +7,6 @@ Now DQ analysis sheet has the total volume of DQ stocks using IF and FOR loops a
 "allstockanalysisdashbrd" gives the yearly volume of different tickers ,<br/>
 "allstockanalysisdashbrdcolor" tells how to format the output page by defining color ,font size etc.<br/>
 " allstockanalysisdashbrdcolor" colored according to the %of return.<br/>
-
+"allstockanalysiscomplete" we created buttons to run and clear the o/p screen by inserting button in the "developer" option.
 
 
